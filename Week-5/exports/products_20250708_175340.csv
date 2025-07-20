@@ -1,0 +1,6 @@
+id,name,price,category,in_stock
+1,Laptop,999.99,Electronics,1
+2,Mouse,29.99,Electronics,1
+3,Keyboard,79.99,Electronics,1
+4,Monitor,299.99,Electronics,0
+5,Desk Chair,199.99,Furniture,1
