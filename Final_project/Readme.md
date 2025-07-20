@@ -228,7 +228,3 @@ To deploy this in Azure:
 - Emphasis on **scalability**, **triggering**, **parameterization**, and **incremental data handling**.
 
 ---
-
-## 👨‍💻 Author
-
-**Darsh Vaishnani**
