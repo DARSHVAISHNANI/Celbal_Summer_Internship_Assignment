@@ -1,0 +1,26 @@
+{
+  "steps": [
+    {
+      "step": "Load and Combine Datasets",
+      "tool": "PySpark",
+      "columns_added": ["source_month"]
+    },
+    {
+      "step": "Add Revenue Column",
+      "formula": "fare_amount + extra + mta_tax + improvement_surcharge + tip_amount + tolls_amount + total_amount"
+    },
+    {
+      "step": "Query 2",
+      "description": "Passenger count per pickup area",
+      "groupBy": "PULocationID"
+    },
+    {
+      "step": "Query 3",
+      "description": "Avg fare and earning per vendor"
+    },
+    {
+      "step": "Query 5",
+      "description": "Top 2 vendors by revenue per day"
+    }
+  ]
+}

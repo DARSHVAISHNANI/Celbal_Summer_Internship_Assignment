@@ -1,0 +1,10 @@
+{
+  "name": "nyc_taxi_tripdata",
+  "format": "Parquet",
+  "files": [
+    "yellow_tripdata_2018-01.parquet",
+    "yellow_tripdata_2020-01.parquet"
+  ],
+  "source": "Simulated Blob/ADLS2",
+  "destination": "DBFS/Parquet or local Colab path"
+}
