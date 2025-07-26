@@ -60,7 +60,7 @@ for country in countries:
 📸 Screenshots:
 
 ✅ Json Output of Countries Data
- ![Json Output of Countries Data]()
+ ![Json Output of Countries Data](https://github.com/DARSHVAISHNANI/Celbal_Summer_Internship_Assignment/blob/main/Final_project/Screenshots/json_output.png)
 
 ---
 
@@ -77,11 +77,11 @@ Use **ADF time-based triggers** with recurrence and IST timezone settings.
 📸 Screenshots:
 
 ✅ Daily Trigger Creation
- ![Daily Trigger Creation]()
+ ![Daily Trigger Creation](https://github.com/DARSHVAISHNANI/Celbal_Summer_Internship_Assignment/blob/main/Final_project/Screenshots/Task_Scheduler.png)
 
 
 ✅ Python Program Path for Execution 
- ![Python Program Path for Execution]()
+ ![Python Program Path for Execution](https://github.com/DARSHVAISHNANI/Celbal_Summer_Internship_Assignment/blob/main/Final_project/Screenshots/python_bash_path_program.png)
 
 ---
 
@@ -103,7 +103,7 @@ Use **ADF time-based triggers** with recurrence and IST timezone settings.
 - Use Azure SQL & ADLS for source/sink.
 
 ✅ Data Transfer Proof 
- ![Data Transfer Proof]()
+ ![Data Transfer Proof](https://github.com/DARSHVAISHNANI/Celbal_Summer_Internship_Assignment/blob/main/Final_project/Screenshots/Copying%20of%20source%20db%20to%20local%20db.png)
 
 ---
 
@@ -133,10 +133,7 @@ Use **ADF time-based triggers** with recurrence and IST timezone settings.
 - Use Mapping Data Flows or Synapse SQL for merge logic
 
 ✅ Incremental Load Execution  
- ![Incremental Load Execution]()
-
-✅ Full Load Execution  
- ![Full Load Execution]()
+ ![Incremental Load Execution](https://github.com/DARSHVAISHNANI/Celbal_Summer_Internship_Assignment/blob/main/Final_project/Screenshots/proof_of_full_load.png)
 
 ---
 
@@ -148,21 +145,21 @@ Run these SQL files to set up your databases:
 - `source_database.sql` — Insert mock customer data (605+ records).
 
 ✅ Source_Database 
- ![Source_Database]()
+ ![Source_Database](https://github.com/DARSHVAISHNANI/Celbal_Summer_Internship_Assignment/blob/main/Final_project/Screenshots/source_database_605.png)
 
 
 ✅ Output: Local_Database 
- ![Local_Database]()
+ ![Local_Database](https://github.com/DARSHVAISHNANI/Celbal_Summer_Internship_Assignment/blob/main/Final_project/Screenshots/local_db_605.png)
 
 ## 🗃️ Database Schema & Mock Data for Incremental Load
 
 
 ✅ Source_DB 
- ![Source_Db]()
+ ![Source_Db](https://github.com/DARSHVAISHNANI/Celbal_Summer_Internship_Assignment/blob/main/Final_project/Screenshots/Source_db_first.png)
 
 
 ✅ Output: Local_DB 
- ![Local_Db]()
+ ![Local_Db](https://github.com/DARSHVAISHNANI/Celbal_Summer_Internship_Assignment/blob/main/Final_project/Screenshots/local_test_result_second.png)
 
 ---
 
@@ -231,7 +228,3 @@ To deploy this in Azure:
 - Emphasis on **scalability**, **triggering**, **parameterization**, and **incremental data handling**.
 
 ---
-
-## 👨‍💻 Author
-
-**Darsh Vaishnani**
